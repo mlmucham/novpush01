@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97265310112",
+    "project_id": "pnovpush01",
+    "storage_bucket": "pnovpush01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97265310112:android:a1aa64846acb0e94a3acc5",
+        "android_client_info": {
+          "package_name": "edu.isil.novpush01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPVi0S1RrWuqu_-aojP1F0Yd2sy-cJ88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
